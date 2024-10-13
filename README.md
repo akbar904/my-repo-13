@@ -1,5 +1,10 @@
 # my-repo-13
 ## Progress Log
+🔄 [2024-10-13 20:20:55] Successfully deployed. Found URL:
+https://steve-fd7c1--my-repo-13-my-app-ov7lorhu.web.app
+
+⏱️ Previous step took 35.52 seconds
+
 🔄 [2024-10-13 20:20:20] Deploying to Firebase
 
 ⏱️ Previous step took 1.71 seconds
